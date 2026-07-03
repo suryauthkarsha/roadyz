@@ -1,0 +1,13 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "Roadyz",
+      "path": "web",
+      "framework": "web",
+      "settings": {
+        "webSlug": "roadyz-game"
+      }
+    }
+  ]
+}
